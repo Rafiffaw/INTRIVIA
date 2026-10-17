@@ -8,5 +8,5 @@
 ## Kesan Pesan INTRIVIA Sejauh Ini 
 Seru, banyak mendapat insight baru
 
-## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
+## Kesan Pesan Cluster 18 Sejauh Ini 
 Asik
