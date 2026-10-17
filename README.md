@@ -10,3 +10,6 @@ Seru, banyak mendapat insight baru
 
 ## Kesan Pesan Cluster 18 Sejauh Ini 
 Asik
+
+## Harapan Kuliah 
+[Tulis harapan kamu di sini] 
