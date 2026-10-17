@@ -12,4 +12,4 @@ Seru, banyak mendapat insight baru
 Asik
 
 ## Harapan Kuliah 
-[Tulis harapan kamu di sini] 
+Semoga ilmu ilmu yang didapatkan dapat diimplementasikan dan berguna bagi masyarakat
