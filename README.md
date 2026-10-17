@@ -3,10 +3,10 @@
 ## Identitas Diri 
 | Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
-| [Nama Lengkap] | [NIM] | [Program Studi] | [Nomor Cluster] | 
+| Rafif Fawwazi Muhlison | 265150307111070 | Teknik Komputer | 18 | 
 
 ## Kesan Pesan INTRIVIA Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang INTRIVIA 2026 di sini] 
+Seru, banyak mendapat insight baru
 
 ## Kesan Pesan Cluster [Nomor Cluster] Sejauh Ini 
-[Tulis kesan dan pesan kamu tentang cluster kamu di sini]
+Asik
